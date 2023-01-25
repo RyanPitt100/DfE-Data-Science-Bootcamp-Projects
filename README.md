@@ -11,7 +11,6 @@ Project 2: Task Manager - Lists, Functions, and String Handling
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py
 ----
 Project 3: Automobile Exploratory Data Analysis - Data Analysis
-
 EDA:
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx
 
