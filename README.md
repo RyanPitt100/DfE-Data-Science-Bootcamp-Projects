@@ -21,7 +21,6 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Auto
 Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation
 EDA: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx
-
 Notes and Extra code: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20Project%20IV.ipynb
 ----
