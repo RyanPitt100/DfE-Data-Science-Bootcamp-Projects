@@ -6,6 +6,7 @@ Project 1: Finance Calculator -  Variables and Control Structures
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/finance_calculators.py
 
 Project 2: Task Manager - Lists, Functions, and String Handling
+https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py
 
 Project 3: Automobile Exploratory Data Analysis - Data Analysis
 
