@@ -26,14 +26,17 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Book
 
 
 Project 6: Supervised Machine Learning: 
+----
 Simple Linear Regression:
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Linear%20Regression.ipynb
-
+----
 Multiple Linear Regression: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Multiple%20Linear%20Regression.ipynb
-
+----
 Logistic Regression: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Logistic%20Regression.ipynb
+----
 Decision Trees: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Decision%20Trees%20(3).ipynb
+----
 
