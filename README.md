@@ -13,7 +13,6 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task
 Project 3: Automobile Exploratory Data Analysis - Data Analysis
 EDA:
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx
-
 Notes and extra code: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/AutomobileEDA.ipynb
 ----
