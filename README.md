@@ -16,7 +16,7 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAO
 Notes and extra code: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/AutomobileEDA.ipynb
 ----
-Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation
+<strong>Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation</strong>
 EDA: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx
 Notes and Extra code: 
