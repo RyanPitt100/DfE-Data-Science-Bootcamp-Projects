@@ -1,4 +1,4 @@
-# DfE-Data-Science-Bootcamp-Projects
+# DfE-Data-Science-Bootcamp-Portfolio
 A compiled list of the various projected developed during the DfE Data Science Bootcamp I am currently studying.
 
 I am expecting to complete the bootcamp content by early February and so this is not a completed list of coding projects. Still to cover in the course are Image Processing and various unsupervised Machine learning algorithms. 
