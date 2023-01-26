@@ -45,3 +45,6 @@ Below are additional personal projects I have done outside of the course I am st
 House Price Valuation Predictor - Ensemble Gradient Boosting
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/House%20Price%20Valuation%20Ensemble%20Gradient%20Boosting.ipynb
 ----
+Python interactive dashboard - python, pandas, panel, numpy
+https://github.com/RyanPitt100/Python-Interactive-Dashboard
+----
