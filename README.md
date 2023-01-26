@@ -16,7 +16,7 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAO
 Notes and extra code: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/AutomobileEDA.ipynb
 ----
-<strong>Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation</strong>
+Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation
 EDA: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx
 Notes and Extra code: 
@@ -41,6 +41,7 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Deci
 ----
 
 Below are additional personal projects I have done outside of the course I am studying.
---
+----
 House Price Valuation Predictor - Ensemble Gradient Boosting
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/House%20Price%20Valuation%20Ensemble%20Gradient%20Boosting.ipynb
+----
