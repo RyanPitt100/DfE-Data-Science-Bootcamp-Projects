@@ -11,16 +11,10 @@ Project 2: Task Manager - Lists, Functions, and String Handling
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py
 ----
 Project 3: Automobile Exploratory Data Analysis - Data Analysis
-EDA:
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx
-Notes and extra code: 
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/AutomobileEDA.ipynb
 ----
 Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation
-EDA: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx
-Notes and Extra code: 
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20Project%20IV.ipynb
 ----
 Project 5: Bookstore - Database Manipulation
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py
