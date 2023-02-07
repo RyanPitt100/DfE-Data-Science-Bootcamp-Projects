@@ -17,7 +17,7 @@ I am expecting to complete the bootcamp content by early February and so this is
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx">Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation</a>
 
 ----
-<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py">Project 5: Bookstore - Database Manipulation
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py">Project 5: Bookstore - Database Manipulation with python + sqlite
 </a>
 
 ----
