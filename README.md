@@ -4,8 +4,8 @@ A compiled list of the various projected developed during the DfE Data Science B
 I am expecting to complete the bootcamp content by early February and so this is not a completed list of coding projects. Still to cover in the course are Image Processing and various unsupervised Machine learning algorithms. 
 
 ----
-Project 1: Finance Calculator -  Variables and Control Structures
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/finance_calculators.py
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/finance_calculators.py">Project 1: Finance Calculator -  Variables and Control Structures</a>
+
 ----
 Project 2: Task Manager - Lists, Functions, and String Handling
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py
