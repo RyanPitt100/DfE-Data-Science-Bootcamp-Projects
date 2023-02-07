@@ -9,14 +9,17 @@ I am expecting to complete the bootcamp content by early February and so this is
 ----
 <a href="https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py"> Project 2: Task Manager - Lists, Functions, and String Handling
 </a>
+
 ----
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx"> Project 3: Automobile Exploratory Data Analysis</a>
+
 ----
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx">Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation</a>
 
 ----
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py">Project 5: Bookstore - Database Manipulation
 </a>
+
 ----
 <strong>Project 6: Supervised Machine Learning: </strong>
 ----
@@ -30,10 +33,15 @@ I am expecting to complete the bootcamp content by early February and so this is
 ----
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20project%20vii.ipynb">Capstone Project 7:
 Principal Component Analysis (PCA)</a>
+
 ----------------------------------------------------------------------------------------------------
 Below are additional personal projects I have done outside of the course I am studying.
 ----
+
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/House%20Price%20Valuation%20Ensemble%20Gradient%20Boosting.ipynb">House Price Valuation Predictor - Ensemble Gradient Boosting</a>
+
 ----
+
 <a href = "https://github.com/RyanPitt100/Python-Interactive-Dashboard">Python interactive dashboard - python, pandas, panel, numpy</a>
+
 ----
