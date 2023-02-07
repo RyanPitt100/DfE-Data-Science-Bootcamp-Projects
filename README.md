@@ -39,7 +39,10 @@ https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Logi
 Decision Trees: 
 https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Decision%20Trees%20(3).ipynb
 ----
-
+Capstone Project 7:
+Principal Component Analysis (PCA)
+https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20project%20vii.ipynb
+----
 Below are additional personal projects I have done outside of the course I am studying.
 ----
 House Price Valuation Predictor - Ensemble Gradient Boosting
