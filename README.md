@@ -22,7 +22,7 @@ I am expecting to complete the bootcamp content by early February and so this is
 
 ----
 
-<strong>Project 6: Supervised Machine Learning: </strong>
+<strong>Supervised Machine Learning: </strong>
 
 ----
 
@@ -39,6 +39,10 @@ I am expecting to complete the bootcamp content by early February and so this is
 ----
 
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Decision%20Trees%20(3).ipynb">Decision Trees</a>
+
+----
+
+<a href ="https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/CAPSTONE%20PROJECT%20IMAGE%20PROCESSING%20(1)%20(1).ipynb"> Project 6: Image processing using Random Forest</a>
 
 ----
 
