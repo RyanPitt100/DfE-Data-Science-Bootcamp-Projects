@@ -7,41 +7,33 @@ I am expecting to complete the bootcamp content by early February and so this is
 <a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/finance_calculators.py">Project 1: Finance Calculator -  Variables and Control Structures</a>
 
 ----
-Project 2: Task Manager - Lists, Functions, and String Handling
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py
+<a href="https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/task_manager.py"> Project 2: Task Manager - Lists, Functions, and String Handling
+</a>
 ----
-Project 3: Automobile Exploratory Data Analysis - Data Analysis
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/EDAOnTheAutomobileDataset_CapstoneProject.docx"> Project 3: Automobile Exploratory Data Analysis</a>
 ----
-Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/capstone4EDA.docx">Project 4: Exploratory Data Analysis on Forbes' Richest Athletes list - Data Visualisation</a>
+
 ----
-Project 5: Bookstore - Database Manipulation
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Bookstore.py">Project 5: Bookstore - Database Manipulation
+</a>
 ----
-Project 6: Supervised Machine Learning: 
+<strong>Project 6: Supervised Machine Learning: </strong>
 ----
-Simple Linear Regression:
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Linear%20Regression.ipynb
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Linear%20Regression.ipynb">Simple Linear Regression</a>
 ----
-Multiple Linear Regression: 
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Multiple%20Linear%20Regression.ipynb
+<a href ="https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Multiple%20Linear%20Regression.ipynb">Multiple Linear Regression</a>
 ----
-Logistic Regression: 
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Logistic%20Regression.ipynb
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Logistic%20Regression.ipynb"> Logistic Regression </a>
 ----
-Decision Trees: 
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Decision%20Trees%20(3).ipynb
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Decision%20Trees%20(3).ipynb">Decision Trees</a>
 ----
-Capstone Project 7:
-Principal Component Analysis (PCA)
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20project%20vii.ipynb
-----
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/Capstone%20project%20vii.ipynb">Capstone Project 7:
+Principal Component Analysis (PCA)</a>
+----------------------------------------------------------------------------------------------------
 Below are additional personal projects I have done outside of the course I am studying.
 ----
-House Price Valuation Predictor - Ensemble Gradient Boosting
-https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/House%20Price%20Valuation%20Ensemble%20Gradient%20Boosting.ipynb
+<a href = "https://github.com/RyanPitt100/DfE-Data-Science-Bootcamp-Projects/blob/main/House%20Price%20Valuation%20Ensemble%20Gradient%20Boosting.ipynb">House Price Valuation Predictor - Ensemble Gradient Boosting</a>
 ----
-Python interactive dashboard - python, pandas, panel, numpy
-https://github.com/RyanPitt100/Python-Interactive-Dashboard
+<a href = "https://github.com/RyanPitt100/Python-Interactive-Dashboard">Python interactive dashboard - python, pandas, panel, numpy</a>
 ----
